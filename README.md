@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Greetings! I'm Nitesh More, a versatile professional transitioning from a Performance Test Engineer to the exciting realms of Software Development and DevOps. I'm on a mission to create seamless and high-performing systems.
+Greetings! I'm a versatile professional transitioning from a Performance Test Engineer to the exciting realms of Software Development and DevOps. I'm on a mission to create seamless and high-performing systems.
 
 ### 📚 Academic Pursuits
 
