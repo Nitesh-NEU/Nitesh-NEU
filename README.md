@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graduate Student @ Northeastern University | Passionate about DevOps
 --------------------------------------------------------------------
 
-🚀 About Me: Greetings! I'm a versatile professional with a rich background as a Performance Test Engineer, specializing in optimizing the performance of diverse web applications. As I embark on a new chapter, I've shifted my focus towards Software Development and DevOps, inspired by a passion for creating seamless and high-performing systems. 📚 Academic Pursuits: Currently, I'm immersed in a Master's degree in Information Systems at Northeastern University. This academic journey is not just a pursuit of knowledge but a deliberate transition towards software development and DevOps. It's my commitment to staying ahead of technological trends and embracing a holistic approach to information systems.
+🚀 About Me: Greetings! I'm a versatile professional with a rich background as a Performance Test Engineer, specializing in optimizing the performance of diverse web applications. As I embark on a new chapter, I've shifted my focus towards Software Development and DevOps, inspired by a passion for creating seamless and high-performing systems. 📚 Academic Pursuits: Currently, I'm immersed in a Master's degree in Information Systems at Northeastern University. This academic journey is not just a pursuit of knowledge but a deliberate transition towards software development and DevOps. It's my commitment to staying ahead of technological trends and embracing a holistic approach to information systems. 🛠️ Technical Proficiency: I've broadened my technical horizons to encompass full-stack development. Proficient in Web technologies, I've successfully executed projects using the MERN (MongoDB, Express.js, React, Node.js) stack. This hands-on experience has not only enriched my skill set but has also given me a holistic understanding of the software development lifecycle.
 
-* 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [nitesh.more22@gmail.com](mailto:nitesh.more22@gmail.com)
+* 🤝  I'm open to collaborating on Software Development, DevOps, Web Development
 
 <a href="https://www.github.com/Nitesh-NEU" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nitesh-NEU?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -28,14 +28,6 @@ src="https://img.shields.io/github/followers/Nitesh-NEU?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Nitesh-NEU"><img src="https://github-readme-stats.vercel.app/api?username=Nitesh-NEU&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nitesh-NEU's GitHub stats" /></a>
-
 <a href="http://www.github.com/Nitesh-NEU"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-NEU&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Nitesh-NEU"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nitesh-NEU&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Nitesh-NEU" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-NEU&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Nitesh-NEU/https://github.com/Nitesh-NEU/Eventure" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nitesh-NEU&repo=https://github.com/Nitesh-NEU/Eventure&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
