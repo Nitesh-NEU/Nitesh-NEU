@@ -54,4 +54,8 @@ My technical journey spans from Web technologies to full-stack development, with
 
 ---
 
-![snake animation](https://github.com/Nitesh-NEU/Nitesh-NEU/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitesh-NEU/Nitesh-NEU/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitesh-NEU/Nitesh-NEU/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" src = " https://raw.githubusercontent.com/Nitesh-NEU/Nitesh-NEU/output/github-contribution-grid-snake.svg " />
+</picture>
