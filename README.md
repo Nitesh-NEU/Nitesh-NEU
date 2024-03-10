@@ -53,3 +53,5 @@ My technical journey spans from Web technologies to full-stack development, with
 </p>
 
 ---
+
+![snake animation](https://github.com/Nitesh-NEU/Nitesh-NEU/blob/output/github-contribution-grid-snake2.svg)
