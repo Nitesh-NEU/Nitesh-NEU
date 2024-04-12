@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Greetings! I'm a versatile professional transitioning from a Performance Test Engineer to the exciting realms of Software Development and DevOps. I'm on a mission to create seamless and high-performing systems.
+Greetings! I'm a versatile professional transitioning from a Performance Engineer to the exciting realms of Software Development and DevOps. I'm on a mission to create seamless and high-performing systems.
 
 ### 📚 Academic Pursuits
 
@@ -12,7 +12,7 @@ Currently pursuing a Master's degree in Information Systems at Northeastern Univ
 
 ### 🛠️ Technical Proficiency
 
-My technical journey spans from Web technologies to full-stack development, with proficiency in the MERN stack. This hands-on experience has enriched my skill set and provided a holistic understanding of the software development lifecycle.
+With a diverse skill set spanning web development to full-stack solutions, I specialize in the MERN stack. Through hands-on experience, I've honed a profound understanding of the software development lifecycle, enabling me to craft resilient and scalable applications. My dedication to DevOps practices shines through projects like the Cloud Native WebApp I developed for Northeastern University. Notable aspects of my technical proficiency include expertise in cloud-native development, proficiency in architecting serverless solutions, optimizing deployment efficiency, implementing robust CI/CD automation, and ensuring scalability and availability of systems.
 
 ### 📧 Contact Me
 
