@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-Greetings! I'm a versatile professional transitioning from a Performance Engineer to the exciting realms of Software Development and DevOps. I'm on a mission to create seamless and high-performing systems.
+Greetings! I am a DevOps Engineer with 2+ years of experience in cloud infrastructure automation, CI/CD pipeline development, and container orchestration. Skilled in AWS, Terraform, Kubernetes, and Docker, with a strong focus on system reliability and scalability. Proficient in Java, Bash, and agile methodologies, with a proven track record of leading end-to-end automation initiatives and mentoring team members. I'm on a mission to create seamless and high-performing systems.
 
 ### 📚 Academic Pursuits
 
